@@ -1,0 +1,18 @@
+h3 {
+  color: red;
+  font-size: 24px;
+}
+
+.first {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.second {
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.third {
+  color: green;
+}
